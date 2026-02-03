@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm [Rishav Khadka]
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Full%20Stack%20Aspirant&fontSize=50" />
@@ -45,7 +45,7 @@ I am a passionate student developer currently learning **Web Development** at **
 
 ## 📫 How to reach me
 
-[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:rishavkhadka1107@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 ---
